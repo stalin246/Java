@@ -1,0 +1,15 @@
+__________________________
+     FACTURA DEL VIAJE    
+__________________________
+Resumen: 7
+ VIAJE: Tu ubicacion------>ll
+AUTO TIPO :1
+MATRICULA: AU897
+CONDUCTOR :Juan Perez
+ Caracteristicas del servicio: 
+Internet: si
+Aire Acondicionado :si
+Insumos :si
+PAGASTE :22.5
+__________________________
+
